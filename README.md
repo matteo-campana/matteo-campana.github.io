@@ -31,14 +31,14 @@ I'm a tech explorer, an avid learner, and a problem solver at heart. Outside of 
 
 ## 📜 Certifications
 
-| Certification | Validity |
-|--------------|----------|
-| [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/BE67A90028179707?sharingId=F1F07155DEC330C9) | Jan 2024 |
-| [Microsoft Certified: Power Platform Solution Architect Expert (MB-230)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/BB3305B92F29E517?sharingId=F1F07155DEC330C9) | Feb 2025 |
-| [Microsoft Certified: Power Platform Solution Architect Expert (PL-600)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/9812F4CD9746BC5A?sharingId=F1F07155DEC330C9) | Dec 2024 |
-| [Microsoft Certified: Power Platform Developer Associate (PL-400)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/3CAC01F1119F279F?sharingId=F1F07155DEC330C9) | Nov 2023 |
-| [Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/C293D254D029AAF1?sharingId=F1F07155DEC330C9) | Jul 2023 |
-| [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/773C90B8C4FE8E09?sharingId=F1F07155DEC330C9) | April 2025 |
+| Certification |
+|--------------|
+| [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/BE67A90028179707?sharingId=F1F07155DEC330C9)
+| [Microsoft Certified: Power Platform Solution Architect Expert (MB-230)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/BB3305B92F29E517?sharingId=F1F07155DEC330C9) |
+| [Microsoft Certified: Power Platform Solution Architect Expert (PL-600)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/9812F4CD9746BC5A?sharingId=F1F07155DEC330C9) |
+| [Microsoft Certified: Power Platform Developer Associate (PL-400)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/3CAC01F1119F279F?sharingId=F1F07155DEC330C9) |
+| [Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)](https://learn.microsoft.com/api/credentials/share/it-it/MatteoCampana-6389/C293D254D029AAF1?sharingId=F1F07155DEC330C9) |
+| [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MatteoCampana-6389/773C90B8C4FE8E09?sharingId=F1F07155DEC330C9) |
 
 ### Microsoft Technologies
 
